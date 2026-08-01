@@ -5,7 +5,7 @@ at a human-like pace with natural pauses and the occasional typo.
 
 ## Install - Windows only LOL 💨  ^_~
 
-1. Download latest release from `Releases`
+1. Download latest release from [Releases](https://github.com/andersonmaina/TypingSimulator/releases)
 2. Double-click `TypingSimulator.exe` to launch it. No installation needed.
 
 > Note: Windows SmartScreen may warn you about running an unrecognized
